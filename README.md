@@ -1,2 +1,2 @@
-# form
-So there is sign up page form, kinda example and first try
+# Sign Up Page
+So there is sign up page form with pure css and html(without any js for now)
